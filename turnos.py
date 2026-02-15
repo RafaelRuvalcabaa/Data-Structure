@@ -1,7 +1,8 @@
 from collections import deque 
 
 
-turnos = deque(["Rafa", "Luis", "Mario"])
+turnos = deque([""
+"Rafa", "Luis", "Mario"])
 
 while turnos: 
     persona = turnos.popleft()
