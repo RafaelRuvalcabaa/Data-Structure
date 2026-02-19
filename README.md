@@ -1,29 +1,50 @@
-# 📚 Data Structures and Algorithms Practice Repository
+# 📚 Data Structures & Algorithms — Self-Taught Journey
 
-This repository contains hands-on implementations and explorations of core computer science concepts.
-
-It includes practical work with:
-- Stacks
-- Queues
-- Recursion
-- Graphs
-- Depth-First Search (DFS)
-- Breadth-First Search (BFS)
-- Additional fundamental algorithms and problem-solving techniques
-
-The purpose of this repository is to strengthen conceptual understanding through implementation, experimentation, and step-by-step analysis.
+> A self-directed learning repository documenting my progression in Data Structures and Algorithms through hands-on implementation.
 
 ---
 
-## 🎯 Long-Term Vision
+## 🧠 About This Repository
 
-This repository is part of a broader personal development ecosystem.
+This repository represents my **independent study journey** in Data Structures and Algorithms.
 
-In the near future, my main repository will serve as a centralized hub containing organized links to:
-- Personal projects
-- Algorithm implementations
-- Technical explorations
-- Practice repositories
-- Experimental builds
+All implementations are written as part of my personal practice process to deeply understand:
 
-This space reflects my ongoing technical growth and commitment to mastering foundational concepts.
+- Core data structures
+- Graph traversal techniques
+- Recursion fundamentals
+- Algorithmic thinking
+
+This is not a finished framework — it is an evolving learning repository that grows as my knowledge expands.
+
+New topics will be added progressively as I continue studying.
+
+---
+
+## 🏗️ Current Implementations
+
+### 📌 Data Structures
+- 🗂️ Stack (LIFO)
+- 📥 Queue (FIFO)
+
+### 📌 Graph Algorithms
+- 🌐 Depth-First Search (DFS)
+- 🌐 Breadth-First Search (BFS)
+- 📊 Basic graph representations
+
+### 📌 Recursion
+- 🔁 Recursive functions
+- 🧪 Recursion testing scripts
+
+### 📌 Algorithm Practice
+- 🔎 Palindrome validation (JavaScript)
+- 🧪 Small logic practice scripts
+
+---
+
+## 💻 Languages Used
+
+- 🐍 Python  
+- 🟨 JavaScript  
+
+
